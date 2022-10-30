@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(3,65,65);
+}
+
+.container-lg{
+    width:80%;
+    height:550px;
+    color:rgb(19,19,19);
+    background-color: rgb(247,247,247);
+    border-radius: 20px;
+    position:absolute;
+    top:25px;
+    left:10%;
+}
+
+.heading{
+    font-size: 45px    ;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:50px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+#inp {
+    display:flex;
+    height:100px;
+    width:600px;
+    margin-left: 190px; 
+    margin-top: 30px;
+    }
+#btn{
+    margin-top: 30px;
+    height: 50px;
+    width:150px;
+    background-color: blue;
+    border: none;
+    color:whitesmoke;
+    font-size:20px;
+}
+.form{
+    text-align:center;
+}
+.output{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
